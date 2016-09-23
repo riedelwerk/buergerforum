@@ -305,7 +305,7 @@ ul.nav{
   	left: 32px;
 	width: 80%;
 	height: 80%;
-	background: rgba(42, 83, 145, 1);
+	background: rgba(32, 41, 58, 0.92);
 	display: none;
 }
 .single-portfolio:hover .portfolio-details{

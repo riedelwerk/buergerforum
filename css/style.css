@@ -258,7 +258,7 @@ ul.nav{
 /*portfolio area*/
 .portfolio h2{
 	font-size: 46px;
-	color: #02918c;
+	color: #436391;
 	margin-top: 100px;
 	font-weight: 800;
 	margin-bottom: 35px;
@@ -305,7 +305,7 @@ ul.nav{
   	left: 32px;
 	width: 80%;
 	height: 80%;
-	background: rgba(2, 145, 140, 0.77);
+	background: rgba(42, 83, 145, 0.43);
 	display: none;
 }
 .single-portfolio:hover .portfolio-details{
